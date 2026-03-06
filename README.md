@@ -14,23 +14,23 @@ Ogni cheatsheet è pensato per essere **pratico, rapido e completo** — dalla c
 
 | Cheatsheet | Area | Livello |
 |---|---|---|
-| [Comandi Linux](./linux/comandi-linux.md) | 🐧 Linux & OS | ⭐ Base → Avanzato |
-| [Comandi Cisco IOS](./networking/comandi-cisco-ios.md) | 🌐 Networking | ⭐⭐ Medio |
+| [Comandi Linux](./networking-os/linux/comandi-linux.md) | 🐧 Linux & OS | ⭐ Base → Avanzato |
+| [Comandi Cisco IOS](./networking-os/comandi-cisco-ios.md) | 🌐 Networking & OS | ⭐⭐ Medio |
+| [Nmap](./cybersecurity/nmap-cheatsheet.md) | 🔐 Cybersecurity | ⭐ Base → Avanzato |
 
 > Nuovi cheatsheet aggiunti ogni settimana. Metti una ⭐ al repo per ricevere notifiche.
 
 ---
 
 ## 🗂️ Struttura
-
 ```
 cheatsheets/
-├── linux/
-│   └── comandi-linux.md
-├── networking/
-│   └── comandi-cisco-ios.md
-├── cybersecurity/          ← prossimamente
-├── python/                 ← prossimamente
+├── networking & os/
+│   ├── comandi-cisco-ios.md
+│   └── linux/
+│       └── comandi-linux.md
+├── cybersecurity/
+│   └── nmap-cheatsheet.md
 └── ai-ml/                  ← prossimamente
 ```
 
