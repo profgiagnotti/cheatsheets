@@ -1,7 +1,7 @@
 # 🐧 Comandi Linux — Cheatsheet Completo
 
 > **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
-> Livello: ⭐ Base → ⭐⭐⭐ Avanzato · Aggiornato: 2025
+> Livello: ⭐ Base → ⭐⭐⭐ Avanzato · Aggiornato: 2026
 
 ---
 

@@ -1,7 +1,7 @@
 # 🌐 Comandi Cisco IOS — Cheatsheet Completo
 
 > **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
-> Livello: ⭐⭐ Medio · Testato su: IOS 15.x / IOS-XE · Aggiornato: 2025
+> Livello: ⭐⭐ Medio · Testato su: IOS 15.x / IOS-XE · Aggiornato: 2026
 
 ---
 
