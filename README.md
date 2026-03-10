@@ -26,9 +26,12 @@ Ogni cheatsheet è pensato per essere **pratico, rapido e completo** — dalla c
 ```
 cheatsheets/
 ├── networking & os/
-│   ├── comandi-cisco-ios.md
-│   └── linux/
-│       └── comandi-linux.md
+│   ├── cisco
+|   |   └── comandi-cisco-ios.md
+│   ├── linux/
+│   |   └── comandi-linux.md
+|   └── Assembly 8086/
+│       └── assembly-8086.md
 ├── cybersecurity/
 │   └── nmap-cheatsheet.md
 └── ai-ml/                  ← prossimamente
