@@ -14,6 +14,7 @@ Ogni cheatsheet è pensato per essere **pratico, rapido e completo** — dalla c
 
 | Cheatsheet | Area | Livello |
 |---|---|---|
+| [Comandi Linux](./networking-os/linux/comandi-linux.md) | 🖥️ Assembly 8086 | ⭐ Base → ⭐⭐⭐ Avanzato |
 | [Comandi Linux](./networking-os/linux/comandi-linux.md) | 🐧 Linux & OS | ⭐ Base → Avanzato |
 | [Comandi Cisco IOS](./networking-os/comandi-cisco-ios.md) | 🌐 Networking & OS | ⭐⭐ Medio |
 | [Nmap](./cybersecurity/nmap-cheatsheet.md) | 🔐 Cybersecurity | ⭐ Base → Avanzato |
